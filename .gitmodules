@@ -1,0 +1,24 @@
+[submodule "src/dwm"]
+	path = src/dwm
+	url = https://git.suckless.org/dwm
+[submodule "src/dmenu"]
+	path = src/dmenu
+	url = https://git.suckless.org/dmenu
+[submodule "src/sent"]
+	path = src/sent
+	url = https://git.suckless.org/sent
+[submodule "src/st"]
+	path = src/st
+	url = https://git.suckless.org/st
+[submodule "src/surf"]
+	path = src/surf
+	url = https://git.suckless.org/surf
+[submodule "src/tabbed"]
+	path = src/tabbed
+	url = https://git.suckless.org/tabbed
+[submodule "src/sfm"]
+	path = src/sfm
+	url = https://git.afify.dev/sfm.git
+[submodule "src/ly"]
+	path = src/ly
+	url = https://github.com/fairyglade/ly.git
